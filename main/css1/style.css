@@ -204,3 +204,18 @@ header .logo
     font-size: 2em;
   }
 }
+
+.head
+{
+  font-size: 3rem;
+  color: white;
+  font-weight: bold;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 40px 100px;
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
